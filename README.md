@@ -4,7 +4,7 @@ A leaderboard of the most-fined license plates in San Francisco, built from
 [SFMTA Parking Citations & Fines](https://data.sfgov.org/Transportation/SFMTA-Parking-Citations-Fines/ab4h-6ztd/about_data)
 on DataSF (23.9M citations, $2B in fines since 2008).
 
-**Live:** https://raemondbw.github.io/sf-parking-ticket-leaderboard/
+**Live:** https://raemond.com/sf-parking-ticket-leaderboard/
 
 ## Features
 
